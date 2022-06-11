@@ -1,0 +1,10 @@
+.vs/*
+ProjectSQL/bin/*
+ProjectSQL/obj/*
+ProjectSQL/Properties/*
+ProjectSQL/Resources/*
+ProjectSQL.csproj
+ProjectSQL.csproj.user
+Interface.resx
+Output.txt
+ProjectSQL.sln
